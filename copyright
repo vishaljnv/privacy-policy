@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Copyright Notice</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #333;
+    }
+    h1 {
+      color: #111;
+      margin-bottom: 20px;
+    }
+    section {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Copyright Notice</h1>
+
+<section>
+  <p>© 2026 Sniff Mate. All rights reserved.</p>
+</section>
+
+<section>
+  <p>This mobile application, including but not limited to its design, code, features, functionality, and content, is the intellectual property of [YOUR NAME].</p>
+</section>
+
+<section>
+  <p>No part of this application may be copied, reproduced, distributed, or transmitted in any form or by any means without prior written permission from the owner.</p>
+</section>
+
+<section>
+  <p>Unauthorized use, duplication, or distribution of this application or any portion of it may result in legal action.</p>
+</section>
+
+<section>
+  <p>For inquiries, please contact:</p>
+  <p><strong>sniffmatesupport@gmail.com</strong></p>
+</section>
+
+</body>
+</html>
